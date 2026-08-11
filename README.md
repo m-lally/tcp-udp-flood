@@ -2,7 +2,7 @@
 
 `flood.py` is a small Python 3 command-line script that generates repeated TCP or UDP traffic toward a specified host and port. It is intended only for controlled, authorized network testing in an isolated lab or against infrastructure you own and are permitted to test.
 
-Do not run this tool against public systems, third-party networks, production services, or any target where you do not have explicit written permission. Unapproved traffic flooding can disrupt services and may be illegal.
+Do not run this tool against public systems, third-party networks, production services, or any target where you do not have explicit written permission. Unapproved traffic flooding can disrupt services and may be illegal 🥷🏼✌️🤪☠️ Enough said, now lets get to it:
 
 ## Project Contents
 
